@@ -9,4 +9,4 @@ Somos uma organização de desenvolvedores, criamos desde sites a aplicações c
 Atualmente, temos:
 
 - Victor Reis David: programador fullstack
-- Vinícius Henrique Klaine dos Santos: programador fullstack & game dev
+- Vinicius Henrique Klaine dos Santos: programador fullstack & game dev
